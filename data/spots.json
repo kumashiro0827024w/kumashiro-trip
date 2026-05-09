@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "福田寺",
+    "description": "神代家の菩提寺。廃藩置県の際に神代姓を名乗った方々も供養されている。",
+    "image": "images/fukudenji.jpg",
+    "mapUrl": "https://share.google/npsAVh7VS2Aq6VCCl"
+  },
+  {
+    "id": 2,
+    "name": "神代氏芦刈城址",
+    "description": "江戸時代に佐賀鍋島藩神代家が芦刈地域を管轄するために開設した館跡。",
+    "image": "images/ashikari.jpg",
+    "mapUrl": "https://maps.app.goo.gl/8xcKxEZerX19gthY7"
+  },
+  {
+    "id": 3,
+    "name": "與止日女神社",
+    "description": "神代勝利公が本陣を構えた場所。景色がとても良い。",
+    "image": "images/yodohime.jpg",
+    "mapUrl": "https://maps.app.goo.gl/p9cw8HD94hnxeK566"
+  },
+  {
+    "id": 4,
+    "name": "神代勝利公墓地",
+    "description": "嘉瀬川ダム建設時に移転された墓所。ダム景観が美しい。",
+    "image": "images/grave.jpg",
+    "mapUrl": "https://maps.app.goo.gl/rooeXbNL7fQfiGJJA"
+  },
+  {
+    "id": 5,
+    "name": "森の香 菖蒲ご膳",
+    "description": "山菜料理が美味しい食事処。",
+    "image": "images/morinoka.jpg",
+    "mapUrl": "https://maps.app.goo.gl/7FuKvjpVQ65pgPKK6"
+  }
+]
