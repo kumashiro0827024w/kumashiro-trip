@@ -73,6 +73,16 @@ header {
   }
 }
 
+@media (max-width: 600px) {
+  .marker {
+    width: 24px;
+    height: 24px;
+    border-width: 1px;
+    font-size: 13px;
+  }
+}
+
+
 /* スポットカード */
 .spot-card {
   margin: 16px;
