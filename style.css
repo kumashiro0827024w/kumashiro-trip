@@ -35,24 +35,37 @@ header {
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  background: crimson;
+  background: #000;
   color: white;
+  border: 2px solid #808080;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
+  font-family: "Meiryo UI", sans-serif;
   font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  cursor: pointer;
+  touch-action: manipulation;
+  transform: translate(-50%, -50%);
 
   animation: blink 1.5s infinite;
 }
 
 /* 位置調整 */
-.marker1 { top: 20%; left: 30%; }
-.marker2 { top: 40%; left: 45%; }
-.marker3 { top: 55%; left: 35%; }
-.marker4 { top: 70%; left: 60%; }
-.marker5 { top: 82%; left: 50%; }
+.marker1 { top: 84.2%; left: 35.9%; }
+.marker2 { top: 90.0%; left: 36.3%; }
+.marker3 { top: 62.1%; left: 45.5%; }
+.marker4 { top: 40.4%; left: 38.3%; }
+.marker5 { top: 31.1%; left: 37.1%; }
+.marker6 { top: 49.1%; left: 48.3%; }
+.marker7 { top: 53.8%; left: 51.6%; }
+.marker8 { top: 52.2%; left: 55.7%; }
+.marker9 { top: 59.2%; left: 54.9%; }
+.marker10 { top: 67.7%; left: 50.2%; }
+.marker11 { top: 67.6%; left: 52.8%; }
 
 @keyframes blink {
   50% {
