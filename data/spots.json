@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "福田寺",
-    "description": "神代家の菩提寺。廃藩置県の際に神代姓を名乗った方々も供養されている。",
+    "description": "神代家の菩提寺",
     "image": "images/fukudenji.jpg",
     "mapUrl": "https://maps.app.goo.gl/TY4HNjWgPZL1975S6"
   },
@@ -16,14 +16,14 @@
   {
     "id": 3,
     "name": "與止日女神社",
-    "description": "神代勝利公が本陣を構えた場所。景色がとても良い。",
+    "description": "川上の合戦の舞台。神代勝利公が本陣を構えた実装院からの景色がとても良い。",
     "image": "images/yodohime.jpg",
     "mapUrl": "https://maps.app.goo.gl/p9cw8HD94hnxeK566"
   },
   {
     "id": 4,
     "name": "神代勝利公墓地",
-    "description": "嘉瀬川ダム建設時に移転された墓所。ダム景観が美しい。",
+    "description": "嘉瀬川ダム建設時に移転された墓所。ダム景観がキレイ。",
     "image": "images/grave.jpg",
     "mapUrl": "https://maps.app.goo.gl/rooeXbNL7fQfiGJJA"
   },
